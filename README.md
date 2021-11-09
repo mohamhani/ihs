@@ -8,7 +8,7 @@ There are two methods of running this program.
 
 1: You can download any editor of your choice, and GNU C++ Compiler to compile this program.
 
-2: Alternatively, an easier method is for you can copy-paste the program into the onlinegdp C++ Compiler and then
+2: Alternatively, an easier method is to copy-paste the program into the online gdp C++ Compiler and then
    hit the green run button on the top left corner.
    link: https://www.onlinegdb.com/online_c++_compiler
    
